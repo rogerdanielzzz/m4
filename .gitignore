@@ -27,4 +27,6 @@ _cache
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+imdb-large.sqlite3.db
+imdb_test.sqlite.db
 package-lock.json
